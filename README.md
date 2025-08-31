@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Ahmed Alsaleh.<br><br>🔭 I’m working as a Software Engineer, focusing on frontend and backend development using React, Node.js, and TypeScript.<br><br>📚 I'm currently learning advanced backend architectures, real-time communication with WebSockets, cloud deployment strategies, microservices, and AI/ML applications.<br><br>⚡ In my free time, I enjoy exploring new tech trends, building personal projects, contributing to open-source communities, learning about AI/ML, and participating in hackathons.</p>
+<p align="left">I'm Ahmed Alsaleh.<br><br>🔭 I’m working as a Software Engineer, focusing on frontend and backend development using React, Node.js, and TypeScript.<br><br>📚 I'm currently learning advanced backend architectures, real-time communication with WebSockets, cloud deployment strategies, microservices, and AI/ML applications.<br><br>⚡ In my free time, I enjoy exploring new tech trends, building personal projects.</p>
 
 ###
 

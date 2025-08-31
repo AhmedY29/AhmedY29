@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./bitmoji-logo.png"  />
+  <img height="250" src="./bitmoji-logo.png"  />
 </div>
 
 ###

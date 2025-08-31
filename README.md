@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style={"display:flex; gap: 5px;"} >
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
